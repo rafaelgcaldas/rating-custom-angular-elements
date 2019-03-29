@@ -1,0 +1,1 @@
+# rating-custom-angular-elements
