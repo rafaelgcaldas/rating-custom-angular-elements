@@ -1,5 +1,9 @@
 # RatingCustomElement
 
+Os Angular Custom Elements são uma adição recente à estrutura Angular que permite criar componentes exportáveis.
+
+Em outras palavras, sempre que criamos um Elemento Angular, criamos um novo elemento HTML personalizado que pode ser usado em qualquer página da Web, mesmo que essa página da Web não use Angular. Dessa forma, é possível exibir os componentes Angular em uma página que use React, Vue, JS Angular ou até mesmo algum HTML gerado com JSP, PHP, ASP, etc.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
 
 ## Development server
