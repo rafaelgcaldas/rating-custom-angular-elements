@@ -24,7 +24,7 @@
     "@webcomponents/custom-elements": "^1.2.2",
     "core-js": "^2.5.4",
     "font-awesome": "4.7.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
